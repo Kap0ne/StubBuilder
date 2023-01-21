@@ -1,6 +1,6 @@
 <h1 align="center">StubBuilder</h1>
 <p align="center">
-![StubBuilder](https://i.imgur.com/H3AVHuX.png)<br>
+![full1site](https://i.imgur.com/H3AVHuX.png)<br>
     Stub Builder for Windows written in C#.
     Made by Kap0ne
 </p><hr>
