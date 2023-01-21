@@ -5,7 +5,7 @@
 </p><hr>
 
 <h2 align="center">Disclaimer</h2>
-StubBuilder is intended for educational and research purposes only. This software should not be used within any system or network for which you do not have permission, nor should it be used for any illegal or illicit purposes. The author takes no responsibility for any damages that may be caused by the software in this repository.
+StubBuilder is intended for educational and research purposes only. This software should not be used within any system or network for which you do not have permission, nor should it be used for any illegal or illicit purposes. The author takes no responsibility for any damages that may be caused by the software in this repository.<br><br>
 
 **Once again, the author accepts no responsibility for any damages that may occur and by downloading this software, you accept and agree to this disclaimer.**
 
