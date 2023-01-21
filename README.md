@@ -16,10 +16,12 @@ StubBuilder is intended for educational and research purposes only. This softwar
 
 ## <h2 align="center">General Info</h2>
 #### Features:
-- Custom Values (Crypto name, Adress, Ransome Note, ...)
-- Start as Admin
-- Start Delay (Some Anti viruses will scan the file in a VM for only x sec. so if you make your file only start after 30 you can trick some.)
-- Show fake Error on start
+- Fully functional stub builder
+- Crypto stealer (Bitcoin only as of now)
+- Start as admin
+- Start delay (some antiviruses will scan the file in a VM for only x amount of seconds, so if you make your file only start after 30, you can trick some)
+- Show fake error on start
+- More soon
 
 #### Info:
 StubBuilder is unfinished and still in the works. If you have any ideas/suggestions please add me on Discord.
