@@ -1,6 +1,6 @@
 <h1 align="center">StubBuilder</h1>
 <p align="center">
-    Stub Builder for Windows written in C#.
+    Stub Builder for Windows written in C#<br><br>
     Made by Kap0ne
 </p><hr>
 
